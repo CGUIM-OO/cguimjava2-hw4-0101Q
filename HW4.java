@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 //import java.util.Scanner;
+//©m¦W¡G±ä¼ä©g
+//¾Ç¸¹¡GB0544145
 public class HW4 {
 	public static void main(String[] args) {
 		int nDeck=4;
